@@ -10,6 +10,8 @@ class Item:
 
 i = Item(10, 52, 31)
 i1 = Item(10, 52, 31)
+
+asd
 print(i == i1)
 
 
